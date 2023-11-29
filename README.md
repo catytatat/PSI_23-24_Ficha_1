@@ -8,34 +8,46 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Catarina Feliciano Cachoeira
 
 ## E1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
+
+    Sim, as classes são tipos de referência em programação orientada a objetos. Elas são usadas para criar objetos e definir suas propriedades.
+
+    2 - (Classes) definem o que algo pode fazer e guardar, enquanto uma
+        (instância) é um objeto específico que contém o seu próprio estado 
+
         (Apaga a opção entre parênteses errada)
+
     3 - Indica três tipos de membros que podem pertencer a uma classe 
-        ...
+        
+        Variáveis de instância, métodos de instância e variáveis de classe.
+
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
-        ...
+        Não, se algo é static, isso significa que ele pertence à classe em si e não às instâncias dessa classe.
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+        Construtores
     6 - De onde podes aceder a algo private? 
-        ...
+        Pode acessar algo private apenas dentro da própria classe em que foi definido.
+
     7 - De onde podes aceder a algo public? 
-        ... 
+        Pode acessar algo public de qualquer lugar.
+
+
     8 - De onde podes aceder a algo internal? 
-        ...
+        Pode acessar algo internal dentro do mesmo módulo em que foi definido.
+
+
 
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+    Classe é uma estrutura que define as características e comportamento de um determinado tipo de objeto. 
+
     2 - Objeto / instância
-        ...
+        
     3 - Método
         ...
     4 - Construtor
